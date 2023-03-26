@@ -1,0 +1,1 @@
+# QRcodeComponent-frontend-mentor-challenge
