@@ -33,3 +33,6 @@ body{
     color: hsl(218, 44%, 22%);
     padding-bottom: 15px;
 }
+.text p{
+    color: hsl(220, 15%, 55%);
+}
