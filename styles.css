@@ -11,3 +11,7 @@ body{
     align-items: center;
     font-size: 15px;
 }
+.container{
+    max-width: 360px;
+    margin: 0 auto;
+}
